@@ -173,7 +173,7 @@ export default function handler(req, res) {
             description: "s.",
             institution: "Coursera",
             type: "x",
-            image: "/images/certification/19.png",
+            image: "/images/certification/19.jpg",
             date: "2025"
         },
         {
@@ -182,7 +182,7 @@ export default function handler(req, res) {
             description: "s.",
             institution: "Codepolitan",
             type: "x",
-            image: "/images/certification/20.png",
+            image: "/images/certification/20.jpg",
             date: "2025"
         },
         {
@@ -191,7 +191,7 @@ export default function handler(req, res) {
             description: "s.",
             institution: "Codepolitan",
             type: "x",
-            image: "/images/certification/21.png",
+            image: "/images/certification/21.jpg",
             date: "2025"
         },
         {
@@ -200,7 +200,7 @@ export default function handler(req, res) {
             description: "s.",
             institution: "Codepolitan",
             type: "x",
-            image: "/images/certification/22.png",
+            image: "/images/certification/22.jpg",
             date: "2025"
         },
         {
@@ -209,7 +209,7 @@ export default function handler(req, res) {
             description: "s.",
             institution: "Codepolitan",
             type: "x",
-            image: "/images/certification/23.png",
+            image: "/images/certification/23.jpg",
             date: "2025"
         },
         {
@@ -218,7 +218,7 @@ export default function handler(req, res) {
             description: "s.",
             institution: "Codepolitan",
             type: "x",
-            image: "/images/certification/24.png",
+            image: "/images/certification/24.jpg",
             date: "2025"
         },
         {
@@ -227,7 +227,7 @@ export default function handler(req, res) {
             description: "d.",
             institution: "Codepolitan",
             type: "x",
-            image: "/images/certification/25.png",
+            image: "/images/certification/25.jpg",
             date: "2025"
         },
         {
@@ -236,7 +236,7 @@ export default function handler(req, res) {
             description: "s.",
             institution: "Codepolitan",
             type: "x",
-            image: "/images/certification/26.png",
+            image: "/images/certification/26.jpg",
             date: "2025"
         },
         {
@@ -245,7 +245,7 @@ export default function handler(req, res) {
             description: "d.",
             institution: "Codepolitan",
             type: "x",
-            image: "/images/certification/27.png",
+            image: "/images/certification/27.jpg",
             date: "2025"
         },
         {
@@ -254,7 +254,7 @@ export default function handler(req, res) {
             description: "a.",
             institution: "Codepolitan",
             type: "x",
-            image: "/images/certification/28.png",
+            image: "/images/certification/28.jpg",
             date: "2025"
         },
         {
@@ -263,7 +263,7 @@ export default function handler(req, res) {
             description: "s.",
             institution: "Codepolitan",
             type: "x",
-            image: "/images/certification/29.png",
+            image: "/images/certification/29.jpg",
             date: "2025"
         },
         {
@@ -272,7 +272,7 @@ export default function handler(req, res) {
             description: "x.",
             institution: "Codepolitan",
             type: "x",
-            image: "/images/certification/30.png",
+            image: "/images/certification/30.jpg",
             date: "2025"
         },
         {
@@ -281,7 +281,7 @@ export default function handler(req, res) {
             description: "d.",
             institution: "Codepolitan",
             type: "x",
-            image: "/images/certification/31.png",
+            image: "/images/certification/31.jpg",
             date: "2025"
         },
         {
@@ -290,7 +290,7 @@ export default function handler(req, res) {
             description: "s.",
             institution: "Codepolitan",
             type: "x",
-            image: "/images/certification/32.png",
+            image: "/images/certification/32.jpg",
             date: "2025"
         },
         {
