@@ -5,7 +5,8 @@ export default function handler(req, res) {
         COD: "Codepolitan",
         COU: "Coursera",
         MMS: "Mutiara Mutu Sertifikasi",
-        CIS: "Cisco Networking Academy"
+        CIS: "Cisco Networking Academy",
+        SOL: "Sololearn"
     };
 
     const data = [
@@ -450,15 +451,264 @@ export default function handler(req, res) {
         },
         {
             id: 52,
-            name: "Python Essentials 2",
+            name: "Demonstrating Theoretical and Practical Understanding of Kotlin",
+            description: "s.",
+            institution: "SOL",
+            images: [
+                "/images/certification/52-1.png",
+                "/images/certification/52-2.png",
+            ],
+            date: "2023"
+        },
+        {
+            id: 53,
+            name: "Google Cybersecurity",
+            description: "s.",
+            institution: "COU",
+            images: [
+                "/images/certification/53.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 54,
+            name: "Google UX Design",
+            description: "s.",
+            institution: "COU",
+            images: [
+                "/images/certification/54.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 55,
+            name: "IBM AI Developer",
+            description: "s.",
+            institution: "COU",
+            images: [
+                "/images/certification/55.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 56,
+            name: "IMB AI Engineering",
+            description: "s.",
+            institution: "COU",
+            images: [
+                "/images/certification/56.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 57,
+            name: "Meta Android Developer",
+            description: "s.",
+            institution: "COU",
+            images: [
+                "/images/certification/57.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 58,
+            name: "IBM IT Project Manager",
+            description: "s.",
+            institution: "COU",
+            images: [
+                "/images/certification/58.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 59,
+            name: "IBM Machine Learning",
+            description: "s.",
+            institution: "COU",
+            images: [
+                "/images/certification/59.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 60,
+            name: "IBM Front-End Developer Professional Certificate",
+            description: "s.",
+            institution: "COU",
+            images: [
+                "/images/certification/60.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 61,
+            name: "IBM Back-End Development Professional Certificate",
+            description: "s.",
+            institution: "COU",
+            images: [
+                "/images/certification/61.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 62,
+            name: "Adobe Content Creator",
+            description: "s.",
+            institution: "COU",
+            images: [
+                "/images/certification/62.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 63,
+            name: "Data Science Foundations",
+            description: "s.",
+            institution: "COU",
+            images: [
+                "/images/certification/63.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 64,
+            name: "IBM Full Stack Software Developer",
+            description: "s.",
+            institution: "COU",
+            images: [
+                "/images/certification/64.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 65,
+            name: "Xbox Graphic Designer",
+            description: "s.",
+            institution: "COU",
+            images: [
+                "/images/certification/65.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 66,
+            name: "Meta iOS Developer",
+            description: "s.",
+            institution: "COU",
+            images: [
+                "/images/certification/66.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 67,
+            name: "Introduction to Cybersecurity",
             description: "s.",
             institution: "CIS",
             images: [
-                "/images/certification/52-1.jpeg",
-                "/images/certification/52-2.png",
-                "/images/certification/52-3.png"
+                "/images/certification/67.png"
             ],
-            date: "2023"
+            date: "2025"
+        },
+        {
+            id: 68,
+            name: "Networking Basics",
+            description: "s.",
+            institution: "CIS",
+            images: [
+                "/images/certification/68.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 69,
+            name: "Networking Devices and Initial Configuration",
+            description: "s.",
+            institution: "CIS",
+            images: [
+                "/images/certification/69.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 70,
+            name: "Sustainable Cities",
+            description: "s.",
+            institution: "CIS",
+            images: [
+                "/images/certification/70.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 71,
+            name: "Online Learning Design for Educators",
+            description: "s.",
+            institution: "CIS",
+            images: [
+                "/images/certification/71.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 72,
+            name: "IBM Business Analyst",
+            description: "s.",
+            institution: "CIS",
+            images: [
+                "/images/certification/72.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 73,
+            name: "IBM Product Owner",
+            description: "s.",
+            institution: "CIS",
+            images: [
+                "/images/certification/73.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 74,
+            name: "The Teacher and Social and Emotional Learning (SEL)",
+            description: "s.",
+            institution: "CIS",
+            images: [
+                "/images/certification/74.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 75,
+            name: "Fundraising and Development",
+            description: "s.",
+            institution: "CIS",
+            images: [
+                "/images/certification/75.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 76,
+            name: "Google Digital Marketing & E-commerce",
+            description: "s.",
+            institution: "CIS",
+            images: [
+                "/images/certification/76.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 77,
+            name: "IBM AI Foundations for Business",
+            description: "s.",
+            institution: "CIS",
+            images: [
+                "/images/certification/77.png"
+            ],
+            date: "2025"
         },
     ];
 
