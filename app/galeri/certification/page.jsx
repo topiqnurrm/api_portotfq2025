@@ -8,6 +8,21 @@ export default function CertificationGallery() {
   const [error, setError] = useState(null);
   const [selectedItem, setSelectedItem] = useState(null);
 
+  // Institution mapping
+  const institutions = {
+    ALI: "Alibaba Cloud",
+    DIC: "Dicoding",
+    COD: "Codepolitan",
+    COU: "Coursera",
+    MMS: "Mutiara Mutu Sertifikasi",
+    CIS: "Cisco Networking Academy",
+    SOL: "Sololearn"
+  };
+
+  const getInstitutionName = (code) => {
+    return institutions[code] || code;
+  };
+
   useEffect(() => {
     fetch('/api/certification')
       .then(res => {
@@ -87,7 +102,7 @@ export default function CertificationGallery() {
                   {item.name}
                 </h3>
                 <div className="flex items-center justify-between text-xs text-gray-600">
-                  <span className="bg-gray-100 px-2 py-1 rounded">{item.institution}</span>
+                  <span className="bg-gray-100 px-2 py-1 rounded">{getInstitutionName(item.institution)}</span>
                   <span className="text-blue-600 font-medium">View Details →</span>
                 </div>
               </div>
@@ -145,7 +160,7 @@ export default function CertificationGallery() {
                   <h3 className="text-xl font-bold text-gray-800 mb-2">{selectedItem.name}</h3>
                   <div className="flex gap-3 text-sm">
                     <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full">
-                      {selectedItem.institution}
+                      {getInstitutionName(selectedItem.institution)}
                     </span>
                     <span className="bg-green-100 text-green-800 px-3 py-1 rounded-full">
                       {selectedItem.date}

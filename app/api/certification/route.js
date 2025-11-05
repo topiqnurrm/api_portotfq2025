@@ -367,7 +367,7 @@ export async function GET() {
             name: "Fundamentals and Applications of Generative AI",
             description: "This comprehensive course covers generative AI fundamentals including transformer models, prompt engineering, fine-tuning, and practical applications. It demonstrates understanding of cutting-edge AI technology and ability to integrate generative AI capabilities into software applications.",
             institution: "COD",
-            image: "/images/certification/43.png",
+            image: "/images/certification/43.jpg",
             date: "2025"
         },
         {
