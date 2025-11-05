@@ -506,7 +506,7 @@ export default function handler(req, res) {
             description: "s.",
             institution: "COU",
             images: [
-                "/images/certification/57.png"
+                "/images/certification/57.jpeg"
             ],
             date: "2025"
         },
@@ -516,7 +516,7 @@ export default function handler(req, res) {
             description: "s.",
             institution: "COU",
             images: [
-                "/images/certification/58.png"
+                "/images/certification/58.jpeg"
             ],
             date: "2025"
         },
@@ -526,7 +526,7 @@ export default function handler(req, res) {
             description: "s.",
             institution: "COU",
             images: [
-                "/images/certification/59.png"
+                "/images/certification/59.jpeg"
             ],
             date: "2025"
         },
@@ -536,7 +536,7 @@ export default function handler(req, res) {
             description: "s.",
             institution: "COU",
             images: [
-                "/images/certification/60.png"
+                "/images/certification/60.jpeg"
             ],
             date: "2025"
         },
@@ -546,7 +546,7 @@ export default function handler(req, res) {
             description: "s.",
             institution: "COU",
             images: [
-                "/images/certification/61.png"
+                "/images/certification/61.jpeg"
             ],
             date: "2025"
         },
@@ -556,7 +556,7 @@ export default function handler(req, res) {
             description: "s.",
             institution: "COU",
             images: [
-                "/images/certification/62.png"
+                "/images/certification/62.jpeg"
             ],
             date: "2025"
         },
@@ -566,7 +566,7 @@ export default function handler(req, res) {
             description: "s.",
             institution: "COU",
             images: [
-                "/images/certification/63.png"
+                "/images/certification/63.jpeg"
             ],
             date: "2025"
         },
@@ -576,7 +576,7 @@ export default function handler(req, res) {
             description: "s.",
             institution: "COU",
             images: [
-                "/images/certification/64.png"
+                "/images/certification/64.jpeg"
             ],
             date: "2025"
         },
@@ -586,7 +586,7 @@ export default function handler(req, res) {
             description: "s.",
             institution: "COU",
             images: [
-                "/images/certification/65.png"
+                "/images/certification/65.jpeg"
             ],
             date: "2025"
         },
@@ -596,7 +596,7 @@ export default function handler(req, res) {
             description: "s.",
             institution: "COU",
             images: [
-                "/images/certification/66.png"
+                "/images/certification/66.jpeg"
             ],
             date: "2025"
         },
@@ -606,7 +606,7 @@ export default function handler(req, res) {
             description: "s.",
             institution: "CIS",
             images: [
-                "/images/certification/67.png"
+                "/images/certification/67.jpeg"
             ],
             date: "2025"
         },
@@ -616,7 +616,7 @@ export default function handler(req, res) {
             description: "s.",
             institution: "CIS",
             images: [
-                "/images/certification/68.png"
+                "/images/certification/68.jpeg"
             ],
             date: "2025"
         },
@@ -626,7 +626,7 @@ export default function handler(req, res) {
             description: "s.",
             institution: "CIS",
             images: [
-                "/images/certification/69.png"
+                "/images/certification/69.jpeg"
             ],
             date: "2025"
         },
@@ -634,9 +634,9 @@ export default function handler(req, res) {
             id: 70,
             name: "Sustainable Cities",
             description: "s.",
-            institution: "CIS",
+            institution: "COU",
             images: [
-                "/images/certification/70.png"
+                "/images/certification/70.jpeg"
             ],
             date: "2025"
         },
@@ -644,9 +644,9 @@ export default function handler(req, res) {
             id: 71,
             name: "Online Learning Design for Educators",
             description: "s.",
-            institution: "CIS",
+            institution: "COU",
             images: [
-                "/images/certification/71.png"
+                "/images/certification/71.jpeg"
             ],
             date: "2025"
         },
@@ -654,9 +654,9 @@ export default function handler(req, res) {
             id: 72,
             name: "IBM Business Analyst",
             description: "s.",
-            institution: "CIS",
+            institution: "COU",
             images: [
-                "/images/certification/72.png"
+                "/images/certification/72.jpeg"
             ],
             date: "2025"
         },
@@ -664,9 +664,9 @@ export default function handler(req, res) {
             id: 73,
             name: "IBM Product Owner",
             description: "s.",
-            institution: "CIS",
+            institution: "COU",
             images: [
-                "/images/certification/73.png"
+                "/images/certification/73.jpeg"
             ],
             date: "2025"
         },
@@ -674,9 +674,9 @@ export default function handler(req, res) {
             id: 74,
             name: "The Teacher and Social and Emotional Learning (SEL)",
             description: "s.",
-            institution: "CIS",
+            institution: "COU",
             images: [
-                "/images/certification/74.png"
+                "/images/certification/74.jpeg"
             ],
             date: "2025"
         },
@@ -684,9 +684,9 @@ export default function handler(req, res) {
             id: 75,
             name: "Fundraising and Development",
             description: "s.",
-            institution: "CIS",
+            institution: "COU",
             images: [
-                "/images/certification/75.png"
+                "/images/certification/75.jpeg"
             ],
             date: "2025"
         },
@@ -694,9 +694,9 @@ export default function handler(req, res) {
             id: 76,
             name: "Google Digital Marketing & E-commerce",
             description: "s.",
-            institution: "CIS",
+            institution: "COU",
             images: [
-                "/images/certification/76.png"
+                "/images/certification/76.jpeg"
             ],
             date: "2025"
         },
@@ -704,12 +704,72 @@ export default function handler(req, res) {
             id: 77,
             name: "IBM AI Foundations for Business",
             description: "s.",
-            institution: "CIS",
+            institution: "COU",
             images: [
-                "/images/certification/77.png"
+                "/images/certification/77.jpeg"
             ],
             date: "2025"
         },
+        {
+            id: 78,
+            name: "SAS Statistical Business Analyst",
+            description: "s.",
+            institution: "COU",
+            images: [
+                "/images/certification/78.jpeg"
+            ],
+            date: "2025"
+        },
+        {
+            id: 79,
+            name: "Unilever Supply Chain Data Analyst",
+            description: "s.",
+            institution: "COU",
+            images: [
+                "/images/certification/79.jpeg"
+            ],
+            date: "2025"
+        },
+        {
+            id: 80,
+            name: "Caring for Others",
+            description: "s.",
+            institution: "COU",
+            images: [
+                "/images/certification/80.jpeg"
+            ],
+            date: "2025"
+        },
+        {
+            id: 81,
+            name: "Foundations of Global Healt",
+            description: "s.",
+            institution: "COU",
+            images: [
+                "/images/certification/81.png"
+            ],
+            date: "2025"
+        },
+        {
+            id: 82,
+            name: "Virtual Teacher",
+            description: "s.",
+            institution: "COU",
+            images: [
+                "/images/certification/82.png"
+            ],
+            date: "2025"
+        },  
+        {
+            id: 83,
+            name: "Google IT Support Certification",
+            description: "s.",
+            institution: "COU",
+            images: [
+                "/images/certification/83.png"
+            ],
+            date: "2025"
+        },  
     ];
 
   res.status(200).json(data);
