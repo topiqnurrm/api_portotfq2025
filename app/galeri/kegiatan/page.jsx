@@ -11,26 +11,20 @@ export default function KegiatanGallery() {
   // Mapping untuk sebagai
   const sebagaiMap = {
     PES: "Peserta Kegiatan",
-    PEM: "Pembicara",
-    PAN: "Panitia",
-    JUR: "Juri"
+    PAN: "Panitia Kegiatan",
   };
 
   // Mapping untuk jenis
   const jenisMap = {
     LOM: "Lomba",
-    SEM: "Seminar",
-    WOR: "Workshop",
-    PEL: "Pelatihan",
-    KON: "Konferensi"
+    ABDI: "Pengabdian Masyarakat",
+    CAR: "Karier",
   };
 
   // Mapping untuk tingkat
   const tingkatMap = {
     NAS: "Nasional",
-    INT: "Internasional",
-    REG: "Regional",
-    LOK: "Lokal"
+    UNY: "Universitas Negeri Yogyakarta",
   };
 
   const getSebagai = (code) => sebagaiMap[code] || code;
