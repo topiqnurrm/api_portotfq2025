@@ -52,10 +52,10 @@ export default function GalleryHome() {
       title: "Activities",
       description: "Explore photos and moments from various activities and events",
       icon: "📸",
-      path: "/galeri/activities",
-      count: "Coming soon",
+      path: "/galeri/kegiatan",
+      count: "belum selesai",
       color: "from-pink-500 to-rose-600",
-      available: false
+      available: true
     }
   ];
 
