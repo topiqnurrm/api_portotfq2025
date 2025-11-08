@@ -10,6 +10,7 @@ export async function GET() {
         LOM: "Lomba",
         ABDI: "Pengabdian Masyarakat",
         CAR: "Karier",
+        SEM: "Seminar",
     };
 
     const tingkat = {
@@ -112,6 +113,22 @@ export async function GET() {
             endDate: "2023-07-31",
             tempat: "online",
             penyelenggara: "Himpunan Mahasiswa Pendidikan IPS Bidang Media dan Jaringan",
+            tingkat: "NAS",
+        },
+        {
+            id: 7,
+            name: "National Seminar on Electronics and Information Engineering Education (SNPTEI) 2023",
+            description: ".",
+            sebagai: "PAN",
+            jenis: "SEM",
+            images: [
+                "/images/kegiatan/7-2.jpeg",
+                "/images/kegiatan/7-1.png",
+            ],
+            startDate: "2023-09-26",
+            endDate: "2023-09-26",
+            tempat: "Fakultas Teknik UNY",
+            penyelenggara: "HIMANIKA FT UNY",
             tingkat: "NAS",
         },
     ];
