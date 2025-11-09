@@ -19,6 +19,9 @@ export default function KegiatanGallery() {
     LOM: "Lomba",
     ABDI: "Pengabdian Masyarakat",
     CAR: "Karier",
+    SEM: "Seminar",
+    PEL: "Pelatihan",
+    ORG: "Organisasi",
   };
 
   // Mapping untuk tingkat
