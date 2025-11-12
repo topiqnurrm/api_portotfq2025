@@ -26,6 +26,8 @@ export default function KegiatanGallery() {
   const tingkatMap = {
     NAS: "Nasional",
     UNY: "Universitas Negeri Yogyakarta",
+    REG: "Regional",
+    INT: "Internasional",
   };
 
   const getSebagai = (code) => sebagaiMap[code] || code;
