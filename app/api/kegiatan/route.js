@@ -24,7 +24,7 @@ export async function GET() {
         {
             id: 1,
             name: "National Competition for Reasoning 'NALAR. IN' Year 2023",
-            description: ".",
+            description: "Participated in a national reasoning competition organized by Yogyakarta State University to sharpen logical and analytical thinking skills.",
             sebagai: "PES",
             jenis: "LOM",
             images: [
@@ -40,7 +40,7 @@ export async function GET() {
         {
             id: 2,
             name: "National Level Indonesian Performing Arts Festival (FSPI) 2023",
-            description: ".",
+            description: "Participated in a national Indonesian performing arts festival showcasing various traditional and contemporary art and cultural works.",
             sebagai: "PES",
             jenis: "LOM",
             images: [
@@ -56,7 +56,7 @@ export async function GET() {
         {
             id: 3,
             name: "Community Service",
-            description: ".",
+            description: "Participated in community service activities in Batanggede Village to provide real contributions to the community through various social and empowerment programs.",
             sebagai: "PAN",
             jenis: "ORG",
             images: [
@@ -72,7 +72,7 @@ export async function GET() {
         {
             id: 4,
             name: "Humanitarian Project",
-            description: ".",
+            description: "Participated in a humanitarian program by visiting an orphanage to share happiness and provide assistance to children in need.",
             sebagai: "PAN",
             jenis: "ORG",
             images: [
@@ -88,7 +88,7 @@ export async function GET() {
         {
             id: 5,
             name: "Industrial Visit",
-            description: ".",
+            description: "Participated in an industrial visit to Jakarta and Bandung to learn firsthand about the application of knowledge in the workplace and expand industry insights.",
             sebagai: "PAN",
             jenis: "ORG",
             images: [
@@ -104,7 +104,7 @@ export async function GET() {
         {
             id: 6,
             name: "ARTOCIUS Poster & Short Movie NATIONAL COMPETITION 2023",
-            description: ".",
+            description: "Participated in a national poster and short film competition with creative themes organized online.",
             sebagai: "PES",
             jenis: "LOM",
             images: [
@@ -120,7 +120,7 @@ export async function GET() {
         {
             id: 7,
             name: "National Seminar on Electronics and Information Engineering Education (SNPTEI) 2023",
-            description: ".",
+            description: "Attended a national seminar on electronics and informatics engineering education to gain current insights from experts and practitioners.",
             sebagai: "PAN",
             jenis: "SEM",
             images: [
@@ -136,7 +136,7 @@ export async function GET() {
         {
             id: 8,
             name: "Seminar Nasional Matematika Ke-15 Universitas Gadjah Mada 'The Future of Criptography and Cybersecurity in Industrial Application'",
-            description: ".",
+            description: "Attended a seminar on the future of cryptography and cybersecurity in industrial applications organized by Gadjah Mada University.",
             sebagai: "PES",
             jenis: "SEM",
             images: [
@@ -153,7 +153,7 @@ export async function GET() {
         {
             id: 9,
             name: "National Seminar with the theme 'Economic Literacy and Business in the 5.0 Era'",
-            description: ".",
+            description: "Attended a national seminar on economic literacy and business in the 5.0 era to understand current digital economic developments.",
             sebagai: "PES",
             jenis: "SEM",
             images: [
@@ -170,7 +170,7 @@ export async function GET() {
         {
             id: 10,
             name: "Digital Economy Academy",
-            description: ".",
+            description: "Participated in a learning program on digital economy and digital transformation across various industry sectors.",
             sebagai: "PES",
             jenis: "PEL",
             images: [
@@ -187,7 +187,7 @@ export async function GET() {
         {
             id: 11,
             name: "Seminar Brave Public Speaking 'Unlock Your Voice, Take Your Chance'",
-            description: ".",
+            description: "Attended a public speaking seminar to improve public speaking and effective communication skills.",
             sebagai: "PES",
             jenis: "SEM",
             images: [
@@ -204,7 +204,7 @@ export async function GET() {
         {
             id: 12,
             name: "Seminar Brave Public Speaking with Fomuny 'Be A Good Speaker for The Better Future''",
-            description: ".",
+            description: "Attended a seminar on becoming a good speaker for a better future with practical public speaking techniques.",
             sebagai: "PES",
             jenis: "SEM",
             images: [
@@ -221,7 +221,7 @@ export async function GET() {
         {
             id: 13,
             name: "Smart Way For TOEFL FOMUNY 2023 'Do your best and reach your achievement with TOEFL'",
-            description: ".",
+            description: "Attended a seminar on smart strategies for facing TOEFL tests to improve English language skills and test preparation.",
             sebagai: "PES",
             jenis: "SEM",
             images: [
@@ -237,7 +237,7 @@ export async function GET() {
         {
             id: 14,
             name: "Media School 'Become a Logo Design Expert in the industrial Field of the Modern Era'",
-            description: ".",
+            description: "Participated in professional logo design training in the context of modern industry to develop graphic design skills.",
             sebagai: "PES",
             jenis: "PEL",
             images: [
@@ -254,7 +254,7 @@ export async function GET() {
         {
             id: 15,
             name: "Campus Orientation DPTEI UNY 2023",
-            description: ".",
+            description: "Participated as committee member in campus orientation activities for new DPTEI students to assist in the adaptation process of new students.",
             sebagai: "PAN",
             jenis: "ORG",
             images: [
@@ -270,7 +270,7 @@ export async function GET() {
         {
             id: 16,
             name: "SHIBERNIKA Leadership Training 2023",
-            description: ".",
+            description: "Participated in HIMANIKA leadership training to develop soft skills and organizational capabilities at Tinalah Tourism Village.",
             sebagai: "PAN",
             jenis: "ORG",
             images: [
@@ -286,7 +286,7 @@ export async function GET() {
         {
             id: 17,
             name: "PI and Student Internship Debriefing Information",
-            description: ".",
+            description: "Attended debriefing information on industrial practice and student internships as preparation for entering the professional world.",
             sebagai: "PES",
             jenis: "SEM",
             images: [
@@ -303,7 +303,7 @@ export async function GET() {
         {
             id: 18,
             name: "Upgrading HIMANIKA Management 2023",
-            description: ".",
+            description: "Participated in HIMANIKA management upgrading activities to enhance organizational capacity and team cohesiveness.",
             sebagai: "PAN",
             jenis: "ORG",
             images: [
@@ -319,7 +319,7 @@ export async function GET() {
         {
             id: 19,
             name: "HIMANIKA Humanitarian Project 2024",
-            description: ".",
+            description: "Participated in HIMANIKA humanitarian program to help communities in need in the Bantul region.",
             sebagai: "PAN",
             jenis: "ORG",
             images: [
@@ -335,7 +335,7 @@ export async function GET() {
         {
             id: 20,
             name: "HIMANIKA Community Service 2024",
-            description: ".",
+            description: "Participated in HIMANIKA community service activities providing real contributions to the community in Guwosari, Pajangan.",
             sebagai: "PAN",
             jenis: "ORG",
             images: [
@@ -351,7 +351,7 @@ export async function GET() {
         {
             id: 21,
             name: "UPGRADING HIMANIKA 2024",
-            description: ".",
+            description: "Attended HIMANIKA upgrading activities for organizational strengthening and improvement of management quality in Wijirejo, Pandak.",
             sebagai: "PAN",
             jenis: "ORG",
             images: [
@@ -367,7 +367,7 @@ export async function GET() {
         {
             id: 22,
             name: "Comparative Study of KMTEDI SV UGM X HIMANIKA FT UNY",
-            description: ".",
+            description: "Participated in a comparative study with KMTEDI SV UGM to share organizational experiences and build inter-campus networking.",
             sebagai: "PAN",
             jenis: "ORG",
             images: [
@@ -384,7 +384,7 @@ export async function GET() {
         {
             id: 23,
             name: "HME FT UNY X HIMANIKA FT UNY Visit Reception",
-            description: ".",
+            description: "Received a visit from HME FT UNY to establish friendship and cooperation between student associations.",
             sebagai: "PAN",
             jenis: "ORG",
             images: [
@@ -401,7 +401,7 @@ export async function GET() {
         {
             id: 24,
             name: "Comparative Study of HIMANIKA FT UNY X HIMAKI UNY",
-            description: ".",
+            description: "Conducted a comparative study with HIMAKI UNY to share best practices and strengthen inter-organizational collaboration.",
             sebagai: "PAN",
             jenis: "ORG",
             images: [
@@ -418,7 +418,7 @@ export async function GET() {
         {
             id: 25,
             name: "ENTREPRENEURSHIP DISCUSSION 'Mastering Content Marketing: Rahasia Sukses Tingkatkan Penjualan Lewat Konten Kreatif di 3 Platform Sekaligus (Reels, TikTok,&Short)'",
-            description: ".",
+            description: "Participated in an entrepreneurship discussion on content marketing and strategies to increase sales through creative content on various social media platforms.",
             sebagai: "PES",
             jenis: "SEM",
             images: [
@@ -435,7 +435,7 @@ export async function GET() {
         {
             id: 26,
             name: "KOSAN#3 National Insight Towards the 2024 Elections",
-            description: ".",
+            description: "Attended a national insight seminar discussing the political situation leading up to the 2024 elections and the role of young generation.",
             sebagai: "PES",
             jenis: "SEM",
             images: [
@@ -452,7 +452,7 @@ export async function GET() {
         {
             id: 27,
             name: "Metaverse and IoT with Python Seminar and Workshop",
-            description: ".",
+            description: "Participated in a seminar and workshop on metaverse and Internet of Things with Python to understand future technologies.",
             sebagai: "PES",
             jenis: "SEM",
             images: [
@@ -468,7 +468,7 @@ export async function GET() {
         {
             id: 28,
             name: "[Astra Career Meet Up] ACMU Yogyakarta Series 2023",
-            description: ".",
+            description: "Attended a career meet up with PT Astra International to learn about career opportunities and tips for entering the industry world.",
             sebagai: "PES",
             jenis: "SEM",
             images: [
@@ -485,7 +485,7 @@ export async function GET() {
         {
             id: 29,
             name: "Smart City Outlook National Seminar 2023: BIG DATA",
-            description: ".",
+            description: "Participated in a national seminar on big data in the context of smart cities to understand data utilization in smart city development.",
             sebagai: "PES",
             jenis: "SEM",
             images: [
@@ -502,7 +502,7 @@ export async function GET() {
         {
             id: 30,
             name: "INFINITE x GDSC UNY Learning Path: Study Camp 2024 path Hacker",
-            description: ".",
+            description: "Participated in a learning path study camp hacker track program to improve cybersecurity skills and ethical hacking.",
             sebagai: "PES",
             jenis: "PEL",
             images: [
@@ -519,7 +519,7 @@ export async function GET() {
         {
             id: 31,
             name: "TALK ABOUT THE BUREAUCRACY OF THE ELECTRONICS AND INFORMATICS STUDENT ASSOCIATION",
-            description: ".",
+            description: "Participated in internal discussions about organizational governance and bureaucratic systems to enhance understanding of HIMANIKA's organizational structure.",
             sebagai: "PAN",
             jenis: "ORG",
             images: [
@@ -536,7 +536,7 @@ export async function GET() {
         {
             id: 32,
             name: "ELINATION #5 (Electronics and Informatics Competition)",
-            description: ".",
+            description: "Participated as committee member in a national-level electronics and informatics competition to develop organizational and technical skills.",
             sebagai: "PAN",
             jenis: "LOM",
             images: [
@@ -553,7 +553,7 @@ export async function GET() {
         {
             id: 33,
             name: "HIMANIKAFEST 2023 Virtual Reality Festivity",
-            description: ".",
+            description: "Participated in a technology festival themed around virtual reality showcasing various innovations and developments in immersive technology.",
             sebagai: "PAN",
             jenis: "ORG",
             images: [
@@ -570,7 +570,7 @@ export async function GET() {
         {
             id: 34,
             name: "Webinar English Series: How to be Sucessful in Public Speaking",
-            description: ".",
+            description: "Attended a webinar on public speaking techniques in English to improve presentation and international communication skills.",
             sebagai: "PES",
             jenis: "SEM",
             images: [
@@ -587,7 +587,7 @@ export async function GET() {
         {
             id: 35,
             name: "Edtech Webinar titled: 'Optimizing Classpoint in Teaching English Tenses'",
-            description: ".",
+            description: "Attended a webinar on optimizing Classpoint educational technology in English language teaching to understand edtech innovations.",
             sebagai: "PES",
             jenis: "SEM",
             images: [
@@ -604,7 +604,7 @@ export async function GET() {
         {
             id: 36,
             name: "Webinar English Series: Acquire and Memorize English Vocabulary Effectively",
-            description: ".",
+            description: "Attended a webinar on effective strategies for acquiring and memorizing English vocabulary to enhance language proficiency.",
             sebagai: "PES",
             jenis: "SEM",
             images: [
@@ -621,7 +621,7 @@ export async function GET() {
         {
             id: 37,
             name: "Data Series Fair 10.0 - Data Engineer",
-            description: ".",
+            description: "Participated in a data engineering training program to learn techniques for processing, transforming, and managing large-scale data.",
             sebagai: "PES", 
             jenis: "PEL",
             images: [
@@ -638,7 +638,7 @@ export async function GET() {
         {
             id: 38,
             name: "TECH TALK 2024 'The Use of AI in the Film Industry and the Consequences of Digital Products in the Future'",
-            description: ".",
+            description: "Attended a technology discussion on AI applications in the film industry and the impact of digital products on the future of creative industries.",
             sebagai: "PES", 
             jenis: "SEM",
             images: [
@@ -654,7 +654,7 @@ export async function GET() {
         {
             id: 39,
             name: "National Webinar by Authentic Publishing with the theme 'Challenges and Opportunities in Scientific Journal Publication'",
-            description: ".",
+            description: "Participated in a national webinar on challenges and opportunities in scientific journal publication to understand research and academic publishing processes.",
             sebagai: "PES", 
             jenis: "SEM",
             images: [
@@ -671,7 +671,7 @@ export async function GET() {
         {
             id: 40,
             name: "Comparative Study of HIMANIKA FT UNY with ITECH UNISA",
-            description: ".",
+            description: "Conducted a comparative study with ITECH UNISA to share organizational experiences and build inter-university collaboration.",
             sebagai: "PAN", 
             jenis: "ORG",
             images: [
@@ -687,7 +687,7 @@ export async function GET() {
         {
             id: 41,
             name: "UBMCC 2024 'Creativepreneurship in supporting Indonesia MSMEs'",
-            description: ".",
+            description: "Participated in a competition on creative entrepreneurship supporting Indonesian MSMEs to develop innovative business ideas.",
             sebagai: "PES", 
             jenis: "LOM",
             images: [
@@ -704,7 +704,7 @@ export async function GET() {
         {
             id: 42,
             name: "STUDIUM GENERALE Empowering Gen Z: Hope or Hurdle? Unleashing Potential to Transform Indonesia",
-            description: ".",
+            description: "Attended a studium generale on Gen Z's role in transforming Indonesia and the potential of young generations facing future challenges.",
             sebagai: "PES", 
             jenis: "SEM",
             images: [
@@ -721,7 +721,7 @@ export async function GET() {
         {
             id: 43,
             name: "SohiB Competition: Poster with the Theme 'Golden Indonesia: 8 Pillars Towards the Future'",
-            description: ".",
+            description: "Participated in a poster design competition themed on Golden Indonesia and eight pillars of national development towards the future.",
             sebagai: "PES", 
             jenis: "LOM",
             images: [
@@ -738,7 +738,7 @@ export async function GET() {
         {
             id: 44,
             name: "Frontend vs Backend: A Never-Ending Love-Hate Relationship",
-            description: ".",
+            description: "Attended a seminar on web development dynamics between frontend and backend and collaboration in development teams.",
             sebagai: "PES", 
             jenis: "SEM",
             images: [
@@ -755,7 +755,7 @@ export async function GET() {
         {
             id: 45,
             name: "I-CHALLENGE 2025 Industry Case Competition",
-            description: ".",
+            description: "Participated in an international industry case competition to solve real business problems with innovative solutions.",
             sebagai: "PES", 
             jenis: "LOM",
             images: [
@@ -772,7 +772,7 @@ export async function GET() {
         {
             id: 46,
             name: "I-CHALLANGE Business Product and Design Competition",
-            description: ".",
+            description: "Participated in an international business product design competition to develop marketable product innovations.",
             sebagai: "PES", 
             jenis: "LOM",
             images: [
@@ -789,7 +789,7 @@ export async function GET() {
         {
             id: 47,
             name: "PertaMC: Maintenance Excellence Competition (PERFORMANCE) under the theme 'Asset Integrity Management System (AIMS)'",
-            description: ".",
+            description: "Participated in a maintenance excellence competition themed on asset integrity management systems to understand best practices in industrial maintenance.",
             sebagai: "PES", 
             jenis: "LOM",
             images: [
@@ -806,7 +806,7 @@ export async function GET() {
         {
             id: 48,
             name: "I-CHALLANGE Essay Competition",
-            description: ".",
+            description: "Participated in an international essay writing competition to develop academic writing skills and critical thinking.",
             sebagai: "PES", 
             jenis: "LOM",
             images: [
@@ -823,7 +823,7 @@ export async function GET() {
         {
             id: 49,
             name: "Workshop Series on Career Guidance with the Theme 'Entrepreneurship in Education'",
-            description: ".",
+            description: "Attended a career guidance workshop on entrepreneurship in education to explore edutech business opportunities.",
             sebagai: "PES", 
             jenis: "SEM",
             images: [
@@ -840,7 +840,7 @@ export async function GET() {
         {
             id: 50,
             name: "WSBK (Workshop Series Bimbingan Karier) UNY #4",
-            description: ".",
+            description: "Attended a career guidance workshop series to gain guidance in career planning and professional development.",
             sebagai: "PES",
             jenis: "SEM",
             images: [
@@ -857,7 +857,7 @@ export async function GET() {
         {
             id: 51,
             name: "Campus Hiring: UniTalk with Qiscus",
-            description: ".",
+            description: "Attended a campus recruitment session with Qiscus to learn about the hiring process and career opportunities in the communication technology industry.",
             sebagai: "PES", 
             jenis: "SEM",
             images: [
@@ -874,7 +874,7 @@ export async function GET() {
         {
             id: 52,
             name: "TechTalk130 by Qiscus, with the topic: 'Inside Context Engineering: Why It Matters and How to Debug Itl'",
-            description: ".",
+            description: "Attended a tech talk on context engineering and debugging techniques to understand best practices in software development.",
             sebagai: "PES", 
             jenis: "SEM",
             images: [
@@ -891,7 +891,7 @@ export async function GET() {
         {
             id: 53,
             name: "6th Career Guidance Workshop Series (WSBK)",
-            description: ".",
+            description: "Attended the 6th career guidance workshop to gain insights on career preparation and the professional world.",
             sebagai: "PES", 
             jenis: "SEM",
             images: [
@@ -908,7 +908,7 @@ export async function GET() {
         {
             id: 54,
             name: "Workshop Series on Career Guidance (WSBK) 7th",
-            description: ".",
+            description: "Participated in the 7th career guidance workshop to deepen understanding of professional career development strategies.",
             sebagai: "PES", 
             jenis: "SEM",
             images: [
@@ -925,7 +925,7 @@ export async function GET() {
         {
             id: 55,
             name: "IDCamp x Dicoding Live #8 - When Business Questions Meet Machine Learning: A Love Story in Data",
-            description: ".",
+            description: "Attended a live session on applying machine learning to answer business questions and data analysis for decision making.",
             sebagai: "PES", 
             jenis: "SEM",
             images: [
@@ -942,7 +942,7 @@ export async function GET() {
         {
             id: 56,
             name: "IDCamp x Dicoding Live #7 – Web3 Engineering for Developers: Skills, Tools, and Career Opportunities",
-            description: ".",
+            description: "Participated in a learning session on Web3 engineering, blockchain technology, and career opportunities in decentralized technology.",
             sebagai: "PES",
             jenis: "SEM",
             images: [
@@ -959,7 +959,7 @@ export async function GET() {
         {
             id: 57,
             name: "elevAIte x Dicoding Live #3 – Data-Driven Future: Master Data Science with the Azure Platform",
-            description: ".",
+            description: "Attended a session on data science using the Azure platform to understand modern tools and practices in cloud data analysis.",
             sebagai: "PES",
             jenis: "SEM",
             images: [
@@ -976,7 +976,7 @@ export async function GET() {
         {
             id: 58,
             name: "IDCamp x Dicoding Live #9 - Unlock Limitless AI Potential with the Agentic Trend",
-            description: ".",
+            description: "Participated in a live session on agentic AI trends and the limitless potential of autonomous AI systems.",
             sebagai: "PES",
             jenis: "SEM",
             images: [
@@ -993,7 +993,7 @@ export async function GET() {
         {
             id: 59,
             name: "WSBK (Workshop Series Bimbingan Karier) UNY #2",
-            description: ".",
+            description: "Attended the 2nd career guidance workshop series to receive guidance on skill development and preparation for entering the professional world.",
             sebagai: "PES",
             jenis: "SEM",
             images: [
@@ -1010,7 +1010,7 @@ export async function GET() {
         {
             id: 60,
             name: "MCT Summit Indonesia 2025",
-            description: ".",
+            description: "Attended the Microsoft Certified Trainer technology summit to gain current insights on Microsoft technologies and IT education trends.",
             sebagai: "PES", 
             jenis: "SEM",
             images: [
@@ -1026,6 +1026,6 @@ export async function GET() {
         },
         //terakhir dari presma kegiatan : Workshop Series Bimbingan Karir dengan tema “Entrepreneurship in Education” / Workshop Series on Career Guidance with the Theme 'Entrepreneurship in Education'
     ];
-
+    
     return NextResponse.json(data);
 }

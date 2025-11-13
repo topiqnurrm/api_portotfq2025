@@ -22,10 +22,10 @@ export default function GalleryHome() {
       title: "Achievements",
       description: "Milestones and accomplishments throughout my professional journey",
       icon: "🏆",
-      path: "/galeri/achievements",
-      count: "Coming soon",
+      path: "/galeri/juara",
+      count: "belum",
       color: "from-yellow-500 to-orange-600",
-      available: false
+      available: true
     },
     {
       id: 3,
