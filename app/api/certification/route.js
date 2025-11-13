@@ -771,7 +771,8 @@ export async function GET() {
                 "/images/certification/83.png"
             ],
             date: "2025"
-        }
+        },
+        //terakhir dari presma sertifikat keahlian : Belajar Penerapan Machine Learning untuk Flutter / Learning Machine Learning Implementation for Flutter
     ];
 
     return NextResponse.json(data);

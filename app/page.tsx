@@ -53,7 +53,7 @@ export default function GalleryHome() {
       description: "Explore photos and moments from various activities and events",
       icon: "📸",
       path: "/galeri/kegiatan",
-      count: "belum selesai",
+      count: "60 kegiatan",
       color: "from-pink-500 to-rose-600",
       available: true
     }
