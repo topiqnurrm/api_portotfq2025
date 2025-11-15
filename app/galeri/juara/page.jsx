@@ -13,11 +13,14 @@ export default function PrestasiGallery() {
     SAT: "Juara 1",
     DUA: "Juara 2",
     TIG: "Juara 3",
+    FIN: "Finalis",
+    PES: "Peserta Kejuaraan",
   };
 
   // Mapping untuk kategori
   const kategoriMap = {
     OLI: "Olimpiade",
+    KOM: "Kompetisi",
   };
 
   // Mapping untuk negara
@@ -28,6 +31,7 @@ export default function PrestasiGallery() {
   // Mapping untuk tingkat
   const tingkatMap = {
     NAS: "Nasional",
+    INT: "Internasional",
   };
 
   // Mapping untuk bidang
@@ -38,6 +42,7 @@ export default function PrestasiGallery() {
   // Mapping untuk sebagai
   const sebagaiMap = {
     SOL: "Individu",
+    SQU: "Kelompok",
   };
 
   const getGelar = (code) => gelarMap[code] || code;
