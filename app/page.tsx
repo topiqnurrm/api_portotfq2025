@@ -23,7 +23,7 @@ export default function GalleryHome() {
       description: "Milestones and accomplishments throughout my professional journey",
       icon: "🏆",
       path: "/galeri/juara",
-      count: "belum",
+      count: "13",
       color: "from-yellow-500 to-orange-600",
       available: true
     },
@@ -53,7 +53,7 @@ export default function GalleryHome() {
       description: "Explore photos and moments from various activities and events",
       icon: "📸",
       path: "/galeri/kegiatan",
-      count: "60 kegiatan",
+      count: "65 kegiatan",
       color: "from-pink-500 to-rose-600",
       available: true
     }
